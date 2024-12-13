@@ -1,0 +1,12 @@
+.avatar {
+	width: 700px;
+	height: 200px;
+	border-radius: 50%;
+	max-width: 100%
+}
+.avatar2 {
+	width: 800px;
+	height: auto;
+	border-radius: 50%;
+	max-width: 100%
+}
